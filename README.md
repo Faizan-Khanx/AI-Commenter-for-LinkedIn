@@ -9,7 +9,7 @@
 [![Platform](https://img.shields.io/badge/platform-Chrome%20|%20Opera%20|%20Edge-lightgrey.svg?style=for-the-badge)](#)
 [![Powered By](https://img.shields.io/badge/powered_by-CyberEthic-black.svg?style=for-the-badge)](https://cyberethic.in)
 
-<img src="./icons/icon128.png" alt="CyberEthic Logo" width="128" />
+<img src="icon128.png" alt="CyberEthic Logo" width="128" />
 
 **CyberEthic AI Commenter** is more than just a browser extension it is a complete growth engine designed to automate your personal branding and supercharge your engagement on professional networking platforms. 
 
