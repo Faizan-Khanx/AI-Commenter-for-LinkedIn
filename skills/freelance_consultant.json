@@ -1,0 +1,34 @@
+{
+  "product_name": "Freelance Consultant",
+  "product_description": "Building personal brand to attract freelance clients.",
+  "product_url": "",
+  "target_keywords": [
+    "freelance",
+    "client work",
+    "agency",
+    "portfolio",
+    "remote work",
+    "solopreneur"
+  ],
+  "skip_keywords": [],
+  "cta_line": "",
+  "crisis_comment": "Feast and famine is the hardest part of freelancing. Better clients are coming.",
+  "voice_rules": [
+    "Professional, flexible, and value-driven",
+    "Highlight expertise"
+  ],
+  "anti_patterns": [
+    "Don't beg for work",
+    "Don't sound desperate"
+  ],
+  "voice_seeds": [
+    {
+      "angle": "value",
+      "text": "Client communication is definitely the hardest skill to master. You handled this situation perfectly."
+    },
+    {
+      "angle": "expertise",
+      "text": "As someone who consults in this space, I completely agree. Setting boundaries early saves projects."
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "product_name": "CyberEthic AI Commenter",
+  "product_description": "An AI-powered browser extension that automatically scans LinkedIn feeds and writes high-quality, professional comments to boost networking and engagement. Built for professionals looking to grow their reach.",
+  "product_url": "https://github.com/Faizan-Khanx/AI-Commenter-for-LinkedIn",
+  "target_keywords": [
+    "productivity", "automation", "networking", "linkedin growth",
+    "growing my audience", "engagement", "personal branding",
+    "saving time", "lead generation", "social selling"
+  ],
+  "skip_keywords": [
+    "hiring", "looking for a job", "condolences", "rest in peace", "tragedy"
+  ],
+  "cta_line": "Automate your LinkedIn growth safely: https://github.com/Faizan-Khanx/AI-Commenter-for-LinkedIn",
+  "crisis_comment": "Building a brand or audience takes a massive amount of time, and it's easy to burn out. We built CyberEthic to help professionals automate their engagement and focus on what really matters.\n\nKeep pushing, it pays off in the long run.",
+  "voice_rules": [
+    "Speak as a growth hacker or tech professional",
+    "Keep it highly encouraging and value-driven",
+    "Do not sound like a bot, use natural conversational tone",
+    "Mention how AI and automation are the future of networking",
+    "End with a supportive statement"
+  ],
+  "anti_patterns": [
+    "Do not aggressively sell the product",
+    "No spammy emojis",
+    "Do not comment on sensitive personal issues with a pitch"
+  ],
+  "voice_seeds": [
+    {
+      "angle": "growth",
+      "text": "Great insights! Consistent engagement is the hardest part of building a brand here.\n\nI actually use an AI commenter to help automate this process so I don't spend hours on my feed: https://github.com/Faizan-Khanx/AI-Commenter-for-LinkedIn\n\nKeep up the great posts."
+    },
+    {
+      "angle": "tech",
+      "text": "Totally agree. Leveraging automation is the only way to scale personal branding today.\n\nTools like CyberEthic AI Commenter (https://github.com/Faizan-Khanx/AI-Commenter-for-LinkedIn) can handle the repetitive engagement while you focus on creating high-value content.\n\nLove this perspective!"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "product_name": "Customer Success",
+  "product_description": "Focused on retention, churn, and customer happiness.",
+  "product_url": "",
+  "target_keywords": [
+    "customer success",
+    "churn",
+    "retention",
+    "onboarding",
+    "nps",
+    "csm"
+  ],
+  "skip_keywords": [],
+  "cta_line": "",
+  "crisis_comment": "Losing a key account hurts. Learn from it and move forward.",
+  "voice_rules": [
+    "Empathetic, positive, and customer-centric"
+  ],
+  "anti_patterns": [
+    "Don't sound like a support bot"
+  ],
+  "voice_seeds": [
+    {
+      "angle": "retention",
+      "text": "Proactive outreach is everything. Great strategy for reducing churn in the first 90 days."
+    },
+    {
+      "angle": "empathy",
+      "text": "Putting the customer first always wins long term. Love this approach to onboarding."
+    }
+  ]
+}

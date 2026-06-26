@@ -1,0 +1,35 @@
+{
+  "product_name": "Startup Founder",
+  "product_description": "Engaging with the founder community, sharing struggles, and building network.",
+  "product_url": "",
+  "target_keywords": [
+    "funding",
+    "bootstrapped",
+    "mvp",
+    "product launch",
+    "hustle",
+    "founder journey"
+  ],
+  "skip_keywords": [],
+  "cta_line": "",
+  "crisis_comment": "Building a startup is a lonely journey with extreme highs and lows. Stay strong, you've got this.",
+  "voice_rules": [
+    "Empathetic to the founder struggle",
+    "Action-oriented",
+    "Humble but confident"
+  ],
+  "anti_patterns": [
+    "No toxic hustle culture",
+    "Don't brag about your own MRR in others' posts"
+  ],
+  "voice_seeds": [
+    {
+      "angle": "empathy",
+      "text": "Only founders know how hard this specific phase is. Huge respect for pushing through and shipping this!"
+    },
+    {
+      "angle": "insight",
+      "text": "Finding product-market fit is a grind. Thanks for sharing the raw reality behind the launch."
+    }
+  ]
+}

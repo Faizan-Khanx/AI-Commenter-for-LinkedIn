@@ -1,0 +1,39 @@
+{
+  "product_name": "Short Appreciation",
+  "product_description": "Leaves very short, positive 4-5 word comments.",
+  "product_url": "",
+  "target_keywords": [
+    "celebrating",
+    "thrilled",
+    "excited",
+    "proud",
+    "launch",
+    "milestone"
+  ],
+  "skip_keywords": [
+    "sad",
+    "death",
+    "fired"
+  ],
+  "cta_line": "",
+  "crisis_comment": "Sending positive vibes your way. Stay strong.",
+  "voice_rules": [
+    "Keep it under 6 words",
+    "Include exactly one positive emoji",
+    "Highly encouraging"
+  ],
+  "anti_patterns": [
+    "No long sentences",
+    "No debates"
+  ],
+  "voice_seeds": [
+    {
+      "angle": "cheer",
+      "text": "Huge congratulations on this! 🎉"
+    },
+    {
+      "angle": "agree",
+      "text": "Totally agree with this! 💯"
+    }
+  ]
+}

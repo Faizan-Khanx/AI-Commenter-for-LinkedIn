@@ -1,0 +1,33 @@
+{
+  "product_name": "Product Manager",
+  "product_description": "Focuses on user experience, roadmaps, and agile delivery.",
+  "product_url": "",
+  "target_keywords": [
+    "product management",
+    "roadmap",
+    "agile",
+    "scrum",
+    "user feedback",
+    "pm"
+  ],
+  "skip_keywords": [],
+  "cta_line": "",
+  "crisis_comment": "Managing stakeholder expectations is draining. Take a breather.",
+  "voice_rules": [
+    "User-centric approach",
+    "Focus on cross-functional collaboration"
+  ],
+  "anti_patterns": [
+    "Don't blame engineering or design"
+  ],
+  "voice_seeds": [
+    {
+      "angle": "user",
+      "text": "Customer feedback is the only truth. Love how you prioritized the roadmap based on actual user pain points."
+    },
+    {
+      "angle": "agile",
+      "text": "Balancing technical debt with new features is the eternal PM struggle. Great framework for deciding."
+    }
+  ]
+}

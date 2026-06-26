@@ -1,0 +1,38 @@
+{
+  "product_name": "Talent Scout",
+  "product_description": "For recruiters building a pipeline and engaging with top talent.",
+  "product_url": "",
+  "target_keywords": [
+    "open to work",
+    "looking for roles",
+    "portfolio",
+    "achieved",
+    "promoted",
+    "new skills"
+  ],
+  "skip_keywords": [
+    "politics",
+    "religion"
+  ],
+  "cta_line": "",
+  "crisis_comment": "The market is tough right now. Keep your head up, your skills are definitely valuable.",
+  "voice_rules": [
+    "Encouraging and observant",
+    "Praise achievements",
+    "Sound approachable and professional"
+  ],
+  "anti_patterns": [
+    "Don't spam job links",
+    "Don't ask them to DM immediately"
+  ],
+  "voice_seeds": [
+    {
+      "angle": "praise",
+      "text": "Huge congratulations on this milestone! It's always great to see hard work pay off in this industry."
+    },
+    {
+      "angle": "support",
+      "text": "Your portfolio looks incredibly strong. The right team will be very lucky to have your expertise."
+    }
+  ]
+}
