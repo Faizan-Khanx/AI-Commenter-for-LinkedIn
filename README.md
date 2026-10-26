@@ -1,17 +1,26 @@
 <div align="center">
 
-# 🚀 CyberEthic: AI Commenter for LinkedIn
+# 🚀 CyberEthic: AI Social Commenter & Growth Assistant
 
-**The Ultimate AI-Powered Engagement Assistant for Professionals**
-
-[![Version](https://img.shields.io/badge/version-2.0.0.1-blue.svg?style=for-the-badge)](#)
+[![Chrome Web Store](https://img.shields.io/badge/Chrome_Web_Store-Available_Now-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/jcaeaffpghakegbfccjpndjflmmlfaaj?utm_source=item-share-cb)
+[![Install Now](https://img.shields.io/badge/Install_Extension-Click_Here-success?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/detail/jcaeaffpghakegbfccjpndjflmmlfaaj?utm_source=item-share-cb)
+[![Version](https://img.shields.io/badge/version-2.0.2-blue.svg?style=for-the-badge)](#)
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=for-the-badge)](LICENSE)
-[![Platform](https://img.shields.io/badge/platform-Chrome%20|%20Opera%20|%20Edge-lightgrey.svg?style=for-the-badge)](#)
+[![Platform](https://img.shields.io/badge/platform-Chrome%20|%20Opera%20|%20Edge%20|%20Brave-lightgrey.svg?style=for-the-badge)](#)
 [![Powered By](https://img.shields.io/badge/powered_by-CyberEthic-black.svg?style=for-the-badge)](https://cyberethic.in)
 
-<img src="icon128.png" alt="CyberEthic Logo" width="128" />
+**The Ultimate AI-Powered Social Engagement & Growth Assistant for Professionals**
 
-**CyberEthic AI Commenter** is more than just a browser extension it is a complete growth engine designed to automate your personal branding and supercharge your engagement on professional networking platforms. 
+> 🛒 **Direct Chrome Web Store Link:**  
+> **[https://chromewebstore.google.com/detail/jcaeaffpghakegbfccjpndjflmmlfaaj](https://chromewebstore.google.com/detail/jcaeaffpghakegbfccjpndjflmmlfaaj?utm_source=item-share-cb)**
+
+<br/>
+
+<img src="./icon128.png" alt="CyberEthic Logo" width="128" />
+
+**CyberEthic: AI Social Commenter & Growth Assistant** is more than just a browser extension — it is a complete growth engine designed to automate your personal branding and supercharge your authentic engagement on professional networking and social platforms. 
+
+👉 **[⚡ Click Here to Install Directly from Chrome Web Store](https://chromewebstore.google.com/detail/jcaeaffpghakegbfccjpndjflmmlfaaj?utm_source=item-share-cb)**
 
 </div>
 
@@ -44,7 +53,7 @@ In 2025, building a personal brand on LinkedIn is no longer optional it's a fund
 
 ## 💡 The Solution & Impact: Intelligent Automation
 
-**CyberEthic AI Commenter** completely eliminates the "Engagement Trap". It solves the problem by putting your networking on safe autopilot, while maintaining 100% of your authentic, professional voice. We don't just automate clicks; we automate *contextual understanding*.
+**CyberEthic: AI Social Commenter & Growth Assistant** completely eliminates the "Engagement Trap". It solves the problem by putting your networking on safe autopilot, while maintaining 100% of your authentic, professional voice. We don't just automate clicks; we automate *contextual understanding*.
 
 Here is how CyberEthic changes the game for you:
 
@@ -67,7 +76,7 @@ Here is how CyberEthic changes the game for you:
 
 ## 🎭 Available AI Skills (Personas)
 
-CyberEthic Engage supports injecting custom instructions into the AI via `.json` configuration files. We have provided **15 highly effective, hyper-realistic templates** out of the box.
+CyberEthic supports injecting custom instructions into the AI via `.json` configuration files. We have provided **15 highly effective, hyper-realistic templates** out of the box.
 
 👉 **[Browse the Skills Directory Here](https://github.com/Faizan-Khanx/AI-Commenter-for-LinkedIn/tree/main/skills/)**
 
@@ -129,7 +138,7 @@ graph TD;
 
 ## 🤝 Join the Movement (Contribute)
 
-CyberEthic AI Commenter isn't just a tool; it's a community of professionals working smarter. We want to build the largest open-source collection of professional AI personas on the internet. 
+CyberEthic: AI Social Commenter & Growth Assistant isn't just a tool; it's a community of professionals working smarter. We want to build the largest open-source collection of professional AI personas on the internet. 
 
 **This repository is dedicated entirely to hosting our open-source Custom Skills & Templates.**
 
@@ -153,12 +162,19 @@ A massive thank you to everyone who is helping build this prompt library. Join u
 
 Ready to put your engagement on autopilot? The extension is officially available on browser stores. You do not need to download any code.
 
-- **Google Chrome Web Store:** [Link coming soon]
-- **Opera Add-ons:** [Link coming soon / Download from store]
-- **Mozilla Firefox Add-ons:** [Link coming soon]
+- **Google Chrome Web Store:** [Install CyberEthic: AI Social Commenter & Growth Assistant](https://chromewebstore.google.com/detail/jcaeaffpghakegbfccjpndjflmmlfaaj?utm_source=item-share-cb)
+- **Opera Add-ons:** Compatible via Chrome Web Store
+- **Microsoft Edge:** Compatible via Chrome Web Store
+
+---
+
+## 🔒 Privacy & Safety
+
+Your data stays with you. CyberEthic operates locally within your active browser tab, never sells your personal data, and enforces strict rate limits to protect your accounts.
+Read our full [Privacy Policy](https://faizan-khanx.github.io/AI-Commenter-for-LinkedIn/privacy.html).
 
 <div align="center">
 <br/>
 <b>Developed with ❤️ by CyberEthic</b><br>
-Website: <a href="https://cyberethic.in">cyberethic.in</a>
+Website: <a href="https://cyberethic.in">cyberethic.in</a> | Chrome Web Store: <a href="https://chromewebstore.google.com/detail/jcaeaffpghakegbfccjpndjflmmlfaaj?utm_source=item-share-cb">Install Extension</a>
 </div>
